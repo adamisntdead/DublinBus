@@ -22,6 +22,7 @@
   "bugs": {
     "url": "https://github.com/adamisntdead/DublinBus/issues"
   },
+  "tonicExampleFilename": "examples.js",
   "keywords": [
     "bus",
     "dublin",
