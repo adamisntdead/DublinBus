@@ -1,6 +1,6 @@
 {
   "name": "dublin-bus",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Get the Real Time information for a bustop, and information about a bus stop",
   "author": "Adam Kelly <adam.guitar12@gmail.com>",
   "contributors": [
