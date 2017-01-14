@@ -1,4 +1,4 @@
-var dublinBus = require('./lib/index');
+var dublinBus = require('dublinbusjs');
 
 dublinBus.getStopData(7602, function(err, results) {
   console.log(JSON.stringify(results));
