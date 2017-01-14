@@ -12,13 +12,13 @@ Any bug reports / pull requests are welcome, just follow the contributing guide 
 ## Usage Guide / Examples
 You have to install the module before you can use it:
 ```bash
-npm install --save dublin-bus
+npm install --save dublinbusjs
 ```
 
 Now this exposes two functions, _getStopData()_ and _getRealtimeData()_.
 
 ```Javascript
-var dublinBus = require('dublin-bus');
+var dublinBus = require('dublinbusjs');
 
 dublinBus.getStopData(3787, function(err, results) {
   console.log(JSON.stringify(results));
