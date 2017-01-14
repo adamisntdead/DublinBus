@@ -12,7 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp",
-    "prepublish": "node build"
+    "prepublish": "npm build"
   },
   "main": "lib/index.js",
   "repository": {
