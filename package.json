@@ -1,6 +1,6 @@
 {
   "name": "dublinbusjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the Realtime and Stop Information from the Dublin Bus REST API",
   "author": "Adam Kelly <adam.guitar12@gmail.com>",
   "contributors": [
