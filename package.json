@@ -1,7 +1,7 @@
 {
   "name": "dublin-bus",
   "version": "1.0.1",
-  "description": "Get the Real Time information for a bustop, and information about a bus stop",
+  "description": "Get the Realtime and Stop Information from the Dublin Bus REST API",
   "author": "Adam Kelly <adam.guitar12@gmail.com>",
   "contributors": [
     {
