@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gulp"
+    "build": "gulp",
+    "prepublish": "node build"
   },
   "main": "lib/index.js",
   "repository": {
@@ -34,5 +35,8 @@
     "babel-preset-env": "^1.1.8",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
   }
 }
