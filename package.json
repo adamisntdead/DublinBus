@@ -1,0 +1,38 @@
+{
+  "name": "dublin-bus",
+  "version": "0.0.1",
+  "description": "Get the Real Time information for a bustop, and information about a bus stop",
+  "author": "Adam Kelly <adam.guitar12@gmail.com>",
+  "contributors": [
+    {
+      "name": "Adam Kelly",
+      "email": "adam.guitar12@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamisntdead/DublinBus"
+  },
+  "bugs": {
+    "url": "https://github.com/adamisntdead/DublinBus/issues"
+  },
+  "keywords": [
+    "bus",
+    "dublin",
+    "ireland",
+    "RTPI",
+    "real time",
+    "timetable"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "babel-preset-env": "^1.1.8",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
