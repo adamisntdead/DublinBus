@@ -1,4 +1,7 @@
 # Dublin Bus - RTPI Javascript Client
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c821ea2af7074f1a87788adf36eab848)](https://www.codacy.com/app/adamisntdead/DublinBus?utm_source=github.com&utm_medium=referral&utm_content=adamisntdead/DublinBus&utm_campaign=badger)
+
 ![Dublin Bus Logo](https://upload.wikimedia.org/wikipedia/de/thumb/b/b2/Dublin-bus.svg/2000px-Dublin-bus.svg.png)
 
 ## About This
