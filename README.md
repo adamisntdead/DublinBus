@@ -17,7 +17,7 @@ npm install --save dublinbusjs
 
 Now this exposes two functions, _getStopData()_ and _getRealtimeData()_.
 
-```Javascript
+```javascript
 const dublinBus = require('dublinbusjs');
 
 dublinBus.getStopData(3787).then(console.log).catch(console.error)
